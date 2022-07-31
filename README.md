@@ -1,6 +1,3 @@
-# Explorando Padrões de Projetos na Prática com Java
+# DesignPatternsSpring
 
-Repositório com as implementações dos padrões de projeto explorados no Lab "Explorando Padrões de Projetos na Prática com Java". Especificamente, este projeto explorou alguns padrões usando o Spring Framework, são eles:
-- Singleton
-- Strategy/Repository
-- Facade
+O desafio de Código realizado no bootcamp Digital Innovation One, consiste em implementar Design Patterns usando Java.
